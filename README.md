@@ -1,89 +1,63 @@
-# Praptee Miller
+# Hey, I'm Praptee Miller 👋
 
-**BTech CSE (2nd Year) | Aspiring Software Engineer | Hackathon Enthusiast**
-
----
-
-## ■ About Me
-
-I’m a Computer Science undergraduate who loves building products that solve real problems.
-The idea of turning an idea into something meaningful excites me — especially through hackathons and real-world projects.
-
-I enjoy working at the intersection of **logic, frontend development, and product thinking**, and I’m currently focused on strengthening my problem-solving skills through **Data Structures & Algorithms**.
+**BTech CSE — 3rd Year | Full Stack Developer | Android Dev | Open Source Contributor | Hackathon Enthusiast | GSSoC '25**
 
 ---
 
-## ■ Technical Strengths
+## About Me
 
-**Core Skills:**
+I'm a CS undergrad who loves turning ideas into real products. I work across the full stack and build Android apps too — always chasing that feeling of shipping something meaningful.
 
-* Strong in **C++ and C** with solid problem-solving ability
-* Comfortable with **JavaScript (Intermediate)** and frontend development
-* Good understanding of **logic building and application flow**
+Currently contributing to open source through **GirlScript Summer of Code (GSSoC '25)** and gearing up for my next hackathon.
 
-**What I do best:**
-
-* Turning ideas into real products
-* Participating and performing in hackathons
-* Leading and managing teams effectively
+> *"I don't just like coding — I love building products."*
 
 ---
 
-## ■ Achievements
+## Tech Stack
 
-* 🏆 **2nd Runner-Up — TechSprint (GDG SSTC Bhilai)**
-* 🚀 Participated in **SEBI Hackathon (GFF ’25)**
-* 🌱 Participated in **HackBIOS 2025 (Agriculture Track)**
+**Full Stack (MERN)**
+`MongoDB` · `Express.js` · `React` · `Node.js`
 
----
+**Android**
+`Kotlin`
 
-## ■ Key Projects
+**Languages**
+`JavaScript` · `C++` · `C`
 
-### 🌸 Haven-and-Her (🏆 Highlight Project)
-
-A purpose-driven **women’s health platform** focused on menstrual awareness and body literacy.
-Built with the vision to reduce stigma and help women understand their bodies better — this is my most meaningful project and something I aim to grow into a real product.
-
----
-
-### 🧠 MindStocks
-
-A **financial education platform** designed to simplify stock market concepts through tutorials, quizzes, and simulations.
-Built as part of the SEBI Hackathon to improve investor awareness and accessibility.
+**Tools**
+`Git` · `GitHub`
 
 ---
 
-### 🌾 Cultivate-Connect
+## Hackathon Highlights
 
-A multi-stakeholder **agriculture platform** connecting farmers, consumers, investors, and shops through structured information and awareness tools.
-
----
-
-## ■ Tech Stack
-
-**Languages:**
-C, C++, JavaScript
-
-**Web:**
-HTML, CSS
-
-**Tools:**
-Git, GitHub
+- 🏆 **2nd Runner-Up** — TechSprint (GDG SSTC Bhilai)
+- 🚀 **SEBI Hackathon** — GFF '25
+- 🌱 **HackBIOS 2025** — Agriculture Track
 
 ---
 
-## ■ Currently Working On
+## Featured Projects
 
-* 📘 Strengthening **Data Structures & Algorithms (DSA)**
-* 🚀 Building more **real-world, impactful projects**
-* 🧠 Improving problem-solving and coding consistency
+**🌸 Haven-and-Her** — Women's health platform for menstrual awareness & body literacy *(TechSprint winner)*
 
----
+**🧠 MindStocks** — Financial education app with tutorials, quizzes & trading simulations *(SEBI Hackathon)*
 
-## ■ Vision
-
-I aim to become a developer who doesn’t just write code, but builds **meaningful products that solve real problems**.
+**🌾 Cultivate-Connect** — Agriculture platform connecting farmers, consumers & investors *(HackBIOS 2025)*
 
 ---
 
-> “I don’t just like coding — I love building products.”
+## Currently
+
+- 🔨 Building full stack projects with MERN
+- 📱 Exploring Kotlin & Android development deeper
+- 🌍 Contributing to open source via GSSoC '25
+- 🛠️ Open source contributor — always open to more
+- 📈 Growing — more coming soon
+
+---
+
+*More to add as I build. Watch this space.*
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammissmiller&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/iammissmiller)
