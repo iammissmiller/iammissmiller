@@ -1,6 +1,6 @@
 # Hey, I'm Praptee Miller 👋
 
-**BTech CSE — 3rd Year | Full Stack Developer | Android Dev | Open Source Contributor | Hackathon Enthusiast | GSSoC '25**
+**BTech CSE — 3rd Year | Full Stack Developer | Android Dev | Open Source Contributor | Hackathon Enthusiast | GSSoC '26**
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a CS undergrad who loves turning ideas into real products. I work across the full stack and build Android apps too — always chasing that feeling of shipping something meaningful.
 
-Currently contributing to open source through **GirlScript Summer of Code (GSSoC '25)** and gearing up for my next hackathon.
+Currently contributing to open source through **GirlScript Summer of Code (GSSoC '26)** and gearing up for my next hackathon.
 
 > *"I don't just like coding — I love building products."*
 
