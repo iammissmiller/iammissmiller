@@ -1,4 +1,4 @@
-# Hey, I'm Praptee Miller 👋
+# Hey, I'm Praptee Miller 
 
 **BTech CSE — 3rd Year | Full Stack Developer | Android Dev | Open Source Contributor | Hackathon Enthusiast | GSSoC '26**
 
