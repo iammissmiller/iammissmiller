@@ -10,7 +10,7 @@
 
 # Praptee Miller
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=b91c1c&center=true&vCenter=true&width=435&lines=%+CSE+%2728+%C2%B7+I+build+things+and+figure+out+the+rest+later.;developer+%C2%B7+open+source+%C2%B7+hackathon+builder;currently+debugging+something+%F0%9F%AB%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=b91c1c&center=true&vCenter=true&width=435&lines=CSE+%2728;%C2%B7+I+build+things+and+figure+out+the+rest+later.;developer+%C2%B7+open+source+%C2%B7+hackathon+builder;currently+debugging+something+%F0%9F%AB%A0)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/iammissmiller)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammissmiller)
