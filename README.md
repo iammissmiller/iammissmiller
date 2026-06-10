@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammissmiller&layout=pie&theme=transparent&hide_border=true&title_color=b91c1c&text_color=888888&langs_count=6)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammissmiller&layout=compact&theme=transparent&hide_border=true&title_color=b91c1c&text_color=888888&langs_count=6)
 
 </div>
 
