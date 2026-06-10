@@ -1,8 +1,6 @@
 <div align="center">
 
-# mill.
-
-**cs student · developer · building in public**
+![snake](https://raw.githubusercontent.com/iammissmiller/iammissmiller/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -10,7 +8,9 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/iammissmiller/iammissmiller/output/github-contribution-grid-snake.svg)
+# Praptee Miller
+
+**CSE '28 · I build things and figure out the rest later.**
 
 </div>
 
