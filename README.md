@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammissmiller&layout=compact&theme=transparent&hide_border=true&title_color=b91c1c&text_color=888888&langs_count=6)
+![Streak](https://streak-stats.demolab.com?user=iammissmiller&theme=transparent&hide_border=true&ring=b91c1c&fire=b91c1c&currStreakLabel=b91c1c&sideLabels=888888&dates=888888&currStreakNum=333333&sideNums=333333)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=iammissmiller&theme=transparent&hide_border=true&ring=b91c1c&fire=b91c1c&currStreakLabel=b91c1c&sideLabels=888888&dates=888888&currStreakNum=333333&sideNums=333333)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammissmiller&layout=compact&theme=transparent&hide_border=true&title_color=b91c1c&text_color=888888&langs_count=6)
 
 </div>
 
